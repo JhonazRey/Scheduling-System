@@ -1,0 +1,52 @@
+body {
+  background:#1b2223;
+  color:#f4fefd;
+}
+
+input,select{
+  background:#f4fefd;
+  color:#1b2223;
+}
+
+hr {
+  border-color:#3a4f50;
+}
+select {
+  width:15%;
+}
+
+button {
+  background:#f97300;
+  color:#1b2223;
+  border:none;
+  font-weight:bold;
+}
+
+.time {
+  width:25%;
+}
+
+.date {
+  width:30%;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+  background:#3a4f50;
+}
+th, td {
+  border:1px solid #1b2223;
+  padding:0.5em;
+}
+
+h2{
+  text-align:center;
+  margin-bottom:0px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin:10px 0;
+}
